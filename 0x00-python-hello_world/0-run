@@ -1,2 +1,2 @@
 #!/bin/bash
-phyton $PYFILE.py
+python $PYFILE.py
